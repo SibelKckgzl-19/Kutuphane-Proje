@@ -1,0 +1,45 @@
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.AssemblyReference.cache
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\PROJE.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\PROJE.Model.AssemblyInfoInputs.cache
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\PROJE.Model.AssemblyInfo.cs
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.CoreCompileInputs.cache
+C:\PROJEM\PROJE\PROJE.Model\bin\Debug\net6.0\PROJE.Model.deps.json
+C:\PROJEM\PROJE\PROJE.Model\bin\Debug\net6.0\PROJE.Model.dll
+C:\PROJEM\PROJE\PROJE.Model\bin\Debug\net6.0\PROJE.Model.pdb
+C:\PROJEM\PROJE\PROJE.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\PROJEM\PROJE\PROJE.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.CopyComplete
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\PROJE.Model.dll
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\refint\PROJE.Model.dll
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\PROJE.Model.pdb
+C:\PROJEM\PROJE\PROJE.Model\obj\Debug\net6.0\ref\PROJE.Model.dll
+C:\proje - Kopya (2)\PROJE.Model\bin\Debug\net6.0\PROJE.Model.deps.json
+C:\proje - Kopya (2)\PROJE.Model\bin\Debug\net6.0\PROJE.Model.dll
+C:\proje - Kopya (2)\PROJE.Model\bin\Debug\net6.0\PROJE.Model.pdb
+C:\proje - Kopya (2)\PROJE.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\proje - Kopya (2)\PROJE.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.AssemblyReference.cache
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\PROJE.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\PROJE.Model.AssemblyInfoInputs.cache
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\PROJE.Model.AssemblyInfo.cs
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.CoreCompileInputs.cache
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.CopyComplete
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\PROJE.Model.dll
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\refint\PROJE.Model.dll
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\PROJE.Model.pdb
+C:\proje - Kopya (2)\PROJE.Model\obj\Debug\net6.0\ref\PROJE.Model.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\bin\Debug\net6.0\PROJE.Model.deps.json
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\bin\Debug\net6.0\PROJE.Model.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\bin\Debug\net6.0\PROJE.Model.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.AssemblyReference.cache
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\PROJE.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\PROJE.Model.AssemblyInfoInputs.cache
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\PROJE.Model.AssemblyInfo.cs
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.CoreCompileInputs.cache
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\PROJE.Model.csproj.CopyComplete
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\PROJE.Model.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\refint\PROJE.Model.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\PROJE.Model.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.Model\obj\Debug\net6.0\ref\PROJE.Model.dll

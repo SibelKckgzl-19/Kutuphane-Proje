@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebServiceBackend.Business/1.0.0": {
+        "dependencies": {
+          "WebServiceBackend.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "WebServiceBackend.Business.dll": {}
+        }
+      },
+      "WebServiceBackend.DataAccess/1.0.0": {
+        "runtime": {
+          "WebServiceBackend.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebServiceBackend.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebServiceBackend.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

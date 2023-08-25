@@ -1,0 +1,12 @@
+C:\PROJEM\proje\WSP\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\PROJEM\proje\WSP\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\PROJEM\proje\WSP\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\PROJEM\proje\WSP\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

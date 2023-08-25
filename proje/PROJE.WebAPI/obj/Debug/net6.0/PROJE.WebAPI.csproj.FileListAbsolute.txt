@@ -1,0 +1,234 @@
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.AssemblyReference.cache
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.AssemblyInfoInputs.cache
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.AssemblyInfo.cs
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.CoreCompileInputs.cache
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.exe
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.deps.json
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.runtimeconfig.json
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.pdb
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Infrastructure.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Business.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Model.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Business.pdb
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Model.pdb
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.PROJE.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PROJE.WebAPI.props
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PROJE.WebAPI.props
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PROJE.WebAPI.props
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\scopedcss\bundle\PROJE.WebAPI.styles.css
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.CopyComplete
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\refint\PROJE.WebAPI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.pdb
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.genruntimeconfig.cache
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\ref\PROJE.WebAPI.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.DataAccess.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\PROJE.DataAccess.pdb
+C:\PROJEM\PROJE\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\PROJEM\PROJE\PROJE.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.exe
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.deps.json
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.runtimeconfig.json
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.pdb
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Infrastructure.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Business.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.DataAccess.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Model.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Business.pdb
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Model.pdb
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\PROJE.DataAccess.pdb
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.AssemblyReference.cache
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.AssemblyInfoInputs.cache
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.AssemblyInfo.cs
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.CoreCompileInputs.cache
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.PROJE.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PROJE.WebAPI.props
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PROJE.WebAPI.props
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PROJE.WebAPI.props
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\scopedcss\bundle\PROJE.WebAPI.styles.css
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.CopyComplete
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\refint\PROJE.WebAPI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.pdb
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.genruntimeconfig.cache
+C:\proje - Kopya (2)\PROJE.WebAPI\obj\Debug\net6.0\ref\PROJE.WebAPI.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\proje - Kopya (2)\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.exe
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.deps.json
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.runtimeconfig.json
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.WebAPI.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Business.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.DataAccess.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Model.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Business.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.Model.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\bin\Debug\net6.0\PROJE.DataAccess.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.AssemblyReference.cache
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.AssemblyInfoInputs.cache
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.AssemblyInfo.cs
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.PROJE.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PROJE.WebAPI.props
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PROJE.WebAPI.props
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PROJE.WebAPI.props
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\scopedcss\bundle\PROJE.WebAPI.styles.css
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.csproj.CopyComplete
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\refint\PROJE.WebAPI.dll
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.pdb
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\PROJE.WebAPI.genruntimeconfig.cache
+C:\Users\sibel\Desktop\PROJE\proje\PROJE.WebAPI\obj\Debug\net6.0\ref\PROJE.WebAPI.dll

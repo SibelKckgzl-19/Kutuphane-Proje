@@ -1,0 +1,12 @@
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\bin\Debug\net6.0\WebServiceBackend.DataAccess.deps.json
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\bin\Debug\net6.0\WebServiceBackend.DataAccess.dll
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\bin\Debug\net6.0\WebServiceBackend.DataAccess.pdb
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\WebServiceBackend.DataAccess.csproj.AssemblyReference.cache
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\WebServiceBackend.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\WebServiceBackend.DataAccess.AssemblyInfoInputs.cache
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\WebServiceBackend.DataAccess.AssemblyInfo.cs
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\WebServiceBackend.DataAccess.csproj.CoreCompileInputs.cache
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\WebServiceBackend.DataAccess.dll
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\refint\WebServiceBackend.DataAccess.dll
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\WebServiceBackend.DataAccess.pdb
+C:\PROJEM\proje\WebServiceBackend\WebServiceBackend.DataAccess\obj\Debug\net6.0\ref\WebServiceBackend.DataAccess.dll

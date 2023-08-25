@@ -1,0 +1,17 @@
+C:\PROJEM\proje\WSP\WSP.DataAccess\bin\Debug\net6.0\WSP.DataAccess.deps.json
+C:\PROJEM\proje\WSP\WSP.DataAccess\bin\Debug\net6.0\WSP.DataAccess.dll
+C:\PROJEM\proje\WSP\WSP.DataAccess\bin\Debug\net6.0\WSP.DataAccess.pdb
+C:\PROJEM\proje\WSP\WSP.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\PROJEM\proje\WSP\WSP.DataAccess\bin\Debug\net6.0\WSP.Model.dll
+C:\PROJEM\proje\WSP\WSP.DataAccess\bin\Debug\net6.0\WSP.Model.pdb
+C:\PROJEM\proje\WSP\WSP.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\WSP.DataAccess.csproj.AssemblyReference.cache
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\WSP.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\WSP.DataAccess.AssemblyInfoInputs.cache
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\WSP.DataAccess.AssemblyInfo.cs
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\WSP.DataAccess.csproj.CoreCompileInputs.cache
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\WSP.DataAccess.csproj.CopyComplete
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\WSP.DataAccess.dll
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\refint\WSP.DataAccess.dll
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\WSP.DataAccess.pdb
+C:\PROJEM\proje\WSP\WSP.DataAccess\obj\Debug\net6.0\ref\WSP.DataAccess.dll
